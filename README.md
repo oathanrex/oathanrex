@@ -6,12 +6,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 <!-- Profile Views & Followers -->
-<p>
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oathanrex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/oathanrex?tab=followers">
     <img src="https://img.shields.io/github/followers/oathanrex?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
   </a>
+  <a href="https://github.com/oathanrex?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/oathanrex?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  </p>
+<br/>
+  <!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@oathanrex"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/VJjSnHQv" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://dev.to/oathanrex"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+<br/>
 <!-- Social Badges -->
 <p>
   <a href="https://codepen.io/OathanRex">
