@@ -24,7 +24,7 @@
 
 <!-- Social Icons Section -->
 <p align="center">
-  <a href="https://oathanrex.github.io" title="Official Portfolio"><img width="34px" alt="Portfolio" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+  <a href="https://oathanrex.github.io" title="Official Portfolio"><img width="34px" alt="Portfolio" src="https://img.icons8.com/fluency/48/domain.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@oathanrex" title="YouTube"><img width="34px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -32,7 +32,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/oathanrex" title="Dev.to"><img width="34px" alt="Dev.to" src="https://i.imgur.com/mVm29vK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codepen.io/OathanRex" title="CodePen"><img width="34px" alt="CodePen" src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
+  <a href="https://codepen.io/OathanRex" title="CodePen"><img width="34px" alt="CodePen" src="https://img.icons8.com/fluency/48/codepen.png"/></a>
 </p>
 
 <!-- Social & Verification Badges -->
@@ -91,32 +91,40 @@ Official developer portfolio and interactive project hub: **[oathanrex.github.io
 ## Curated Tech Stack & Arsenal
 
 ### Languages & Core Runtimes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ### Frameworks & Modern Web
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite 8](https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
+  <img src="https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 
 ### Specialized Tooling & Algorithms
-![AST Parsers](https://img.shields.io/badge/AST_Engine-Acorn_%26_Babel-F69220?style=for-the-badge)
-![Canvas API](https://img.shields.io/badge/Canvas_API-Homography_%26_Warp-E53E3E?style=for-the-badge)
-![KaTeX](https://img.shields.io/badge/KaTeX-LaTeX_Math-3298DC?style=for-the-badge)
-![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=for-the-badge)
-![PWA](https://img.shields.io/badge/PWA-Offline_First-5A0FC8?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/AST_Engine-Acorn_%26_Babel-F69220?style=for-the-badge" alt="AST Engine"/>
+  <img src="https://img.shields.io/badge/Canvas_API-Homography_%26_Warp-E53E3E?style=for-the-badge" alt="Canvas API"/>
+  <img src="https://img.shields.io/badge/KaTeX-LaTeX_Math-3298DC?style=for-the-badge" alt="KaTeX"/>
+  <img src="https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=for-the-badge" alt="Mermaid"/>
+  <img src="https://img.shields.io/badge/PWA-Offline_First-5A0FC8?style=for-the-badge" alt="PWA"/>
+</p>
 
 ### DevOps & Engineering Workflows
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
 ---
 
@@ -137,7 +145,7 @@ Official developer portfolio and interactive project hub: **[oathanrex.github.io
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oathanrex&theme=react-dark&hide_border=false" alt="OathanRex Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oathanrex&theme=tokyo-night&hide_border=false" alt="OathanRex Activity Graph" />
 
 </div>
 
