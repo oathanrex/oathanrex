@@ -1,64 +1,110 @@
 <div align="center">
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OathanRex&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descSize=18"/>
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-</a>
-<!-- Profile Views & Followers -->
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oathanrex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/oathanrex?tab=followers">
-    <img src="https://img.shields.io/github/followers/oathanrex?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/oathanrex?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/oathanrex?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  </p>
-<br/>
-  <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@oathanrex"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/VJjSnHQv" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://dev.to/oathanrex"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
-<!-- Social Badges -->
-<p>
-  <a href="https://codepen.io/OathanRex">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-  </a>
-  <a href="mailto:oathanrex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://buymeacoffee.com/oathanrex">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-<br/>
-<!-- About Me Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-OathanRex <br/>
-Developer & creator.<br/>
-Official website: https://oathanrex.github.io<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oathanrex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oathanrex&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oathanrex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Oathan Rex
+
+**Full-Stack Developer · Systems & Client-Side Tooling Engineer**  
+*Building privacy-first browser architectures, AST deobfuscators, and high-performance Web utilities.*
+
+<br/>
+
+[![Official Portfolio](https://img.shields.io/badge/Portfolio-oathanrex.github.io-00dc82?style=flat-square&logo=google-chrome&logoColor=white)](https://oathanrex.github.io)
+[![Public Repositories](https://img.shields.io/badge/Public_Repositories-95+-38bdf8?style=flat-square&logo=github&logoColor=white)](https://github.com/oathanrex?tab=repositories)
+[![CodePen](https://img.shields.io/badge/CodePen-OathanRex-black?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/OathanRex)
+[![Architecture](https://img.shields.io/badge/Architecture-100%25_In--Browser_Privacy-10b981?style=flat-square&logo=shield)](https://oathanrex.github.io)
+[![License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
+
+<br/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oathanrex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oathanrex) 
+## Executive Overview
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I engineer client-side Web applications, developer utilities, and browser-native algorithms that execute entirely within the client runtime. My focus centers on zero-knowledge architectures, perceptually uniform design systems (OKLCH), abstract syntax tree (AST) manipulation, and eliminating unnecessary cloud dependencies for tasks that modern browsers can process locally.
+
+Official developer portfolio and live project hub: **[oathanrex.github.io](https://oathanrex.github.io)**
+
+---
+
+## Flagship Platforms & Production Work
+
+The core of my public engineering work consists of production-grade, privacy-respecting Web applications:
+
+| Platform | Production URL | Core Focus & Architecture |
+| :--- | :--- | :--- |
+| **PerspectiveFix** | [perspectivefix.app](https://perspectivefix.app/) | Browser-native homography transformation tool to straighten skewed documents, book scans, receipts, and photos. 100% client-side Canvas API processing with zero server uploads. |
+| **JSUnpacker Studio** | [oathanrex.github.io/jsUnpacker](https://oathanrex.github.io/jsUnpacker/) | Client-side AST JavaScript deobfuscator & unpacker studio supporting 14 deobfuscation families (Dean Edwards Packer, Obfuscator.IO, JSFuck, AAencode, JJencode, and array decoders). |
+| **Markdown Editor** | [oathanrex.github.io/markdown-editor](https://oathanrex.github.io/markdown-editor/) | Desktop-grade offline PWA featuring synchronized split preview, GitHub Flavored Markdown, KaTeX LaTeX math equations, and Mermaid diagrams. |
+| **Base64 Tools Hub** | [oathanrex.github.io/base64-tools](https://oathanrex.github.io/base64-tools/) | Complete 35+ converter & encoder workstation supporting Text, Batch Images, PDF, Audio, Video, CSS Data URIs, and JWT/Basic-Auth security tools. |
+| **GitGet** | [oathanrex.github.io/gitget](https://oathanrex.github.io/gitget/) | Intelligent OS-detecting GitHub release package finder that identifies and downloads the correct installer for Windows, macOS, Linux, and Android in one click. |
+| **Developer Vault** | [github.com/oathanrex/developer-vault](https://github.com/oathanrex/developer-vault) | High-signal engineering repository featuring battle-tested system prompts, PRD frameworks, and full-stack technical architecture guides. |
+
+---
+
+## Architectural Principles & Standards
+
+- **100% Client-Side Privacy**: All utility tools, transformations, deobfuscators, and encoders execute entirely within the user's browser runtime. Zero tracking, zero telemetry bloat, and zero server round-trips for user data.
+- **Perceptually Uniform OKLCH Design System**: Hardware-accelerated color systems providing mathematically balanced contrast across OLED True-Dark and Paper-Light themes.
+- **Zero-Layout-Shift (CLS 0.00)**: Strict code-splitting paired with pixel-precise reserve shells to eliminate rendering jitter.
+- **Keyboard-First Developer Ergonomics**: Universal keyboard shortcuts (`Ctrl+Enter`, `Ctrl+K`), ARIA landmark compliance, and full accessibility (WCAG AA+).
+
+---
+
+## Technical Stack & Arsenal
+
+### Languages & Runtimes
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES2024+-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python_3.11+-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3_OKLCH-1572b6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Frameworks & Libraries
+[![React 19](https://img.shields.io/badge/React_19-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Vite 8](https://img.shields.io/badge/Vite_8-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_v4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Three.js](https://img.shields.io/badge/Three.js_WebGL-black?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+
+### Specialized Tooling & Algorithms
+[![AST Parsers](https://img.shields.io/badge/AST-Acorn_%26_Babel-f69220?style=flat-square)](https://github.com/acornjs/acorn)
+[![Canvas API](https://img.shields.io/badge/Canvas_API-Homography_%26_Warp-red?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+[![KaTeX](https://img.shields.io/badge/KaTeX-LaTeX_Math-3298dc?style=flat-square)](https://katex.org)
+[![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams_Engine-ff3670?style=flat-square)](https://mermaid.js.org)
+[![PWA](https://img.shields.io/badge/PWA-Offline_First-5a0fc8?style=flat-square)](https://web.dev/explore/progressive-web-apps)
+
+### DevOps & Engineering Workflows
+[![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+
+---
+
+## Verified Engineering Metrics
+
+```
+Public Repositories   : 95+ Active Projects
+Primary Focus         : Client-Side Web Utilities & Systems Tooling
+Deployment Pipeline   : Automated GitHub Actions CI/CD with Strict Typechecking
+Privacy Standard      : 100% In-Browser Computation (Zero Server Telemetry)
+License Standard      : Open Source (MIT)
+```
+
+---
+
+## Connect & Verify
+
+- **Official Portfolio**: [oathanrex.github.io](https://oathanrex.github.io)
+- **Flagship Application**: [perspectivefix.app](https://perspectivefix.app)
+- **GitHub Profile**: [@oathanrex](https://github.com/oathanrex)
+- **CodePen Work**: [codepen.io/OathanRex](https://codepen.io/OathanRex)
+- **Inquiries & Collaboration**: [oathanrex@gmail.com](mailto:oathanrex@gmail.com)
+- **Support & Sponsorship**: [buymeacoffee.com/oathanrex](https://buymeacoffee.com/oathanrex)
+
+---
+
+<div align="center">
+<sub>Engineered with precision by Oathan Rex · 100% Client-Side Privacy</sub>
+</div>
